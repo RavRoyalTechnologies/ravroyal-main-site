@@ -1,2 +1,15 @@
-# ravroyal-main-site
-RavRoyal Technology Pvt. Ltd. | Official Main Website | ERP • SaaS • eCommerce • AI • Enterprise Software • Cloud Solutions
+# RavRoyal Main Site
+
+Official corporate website for RavRoyal Technology Private Limited.
+
+**Tagline:** Achieve the Impossible
+
+## Focus Areas
+- ERP Systems
+- SaaS Platforms
+- eCommerce Solutions
+- AI & Automation
+- Enterprise Software
+- Cloud Infrastructure
+
+🌐 Website: https://ravroyal.com
